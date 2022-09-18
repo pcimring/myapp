@@ -1,1 +1,1 @@
-console.log("Hello!")
+console.log("No more warnings")
